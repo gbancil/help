@@ -109,6 +109,12 @@ If the steps above do not solve your issue, get the controller logs using the st
 
 5. Contact Support in the online chat or by email.
 
+## Connectivity required for Ocean controller
+
+1. gcr.io
+2. https://api.spotinst.io/
+3. http://spotinst-public.s3.amazonaws.com/integrations/kubernetes/cluster-controller/scripts/init.sh
+
 ## What's Next?
 
 - Learn how to [update the controller](ocean/tutorials/spot-kubernetes-controller/update-controller).
